@@ -1,4 +1,5 @@
 # Mercado: Forging Digital Legacies
+![image](https://github.com/user-attachments/assets/b3ab25d4-e93f-4928-baae-1a012d653176)
 
 ## See It Live - https://mercado-ruby.vercel.app/
 
